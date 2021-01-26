@@ -1,2 +1,2 @@
-# React-Complete-ToDoListApp
+# React-ToDoList
 Created with CodeSandbox
